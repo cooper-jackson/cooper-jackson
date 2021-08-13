@@ -1,7 +1,5 @@
 <h1 align='center'>Hi there, I'm Cooper 👋</h1>
 
-<h3 align='center'>I'm a Developer, a student, and a musician!!</h3>
-
 <br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
