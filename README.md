@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there, I'm Cooper 👋</h1>
+<h1 align='center'>Cooper Jackson 👋</h1>
 
 <br />
 <br />
