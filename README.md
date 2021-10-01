@@ -18,8 +18,7 @@
 
 <br />
 
-- 🦙 I am finishing up Lambda's full-stack course
-- ⌨️ I'm currently working on Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a)
+- 🦙 I have finished Lambda's full-stack course
 - 👨‍💻 I'm looking to land my first developer position
 - 🥁 Fun fact: I paint a whole lot of Warhammer minis and am a BIG OL NERDO.
 
