@@ -16,13 +16,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<br />
-
-- 🦙 I have finished Lambda's full-stack course
-- 👨‍💻 I'm looking to land my first developer position
-- 🥁 Fun fact: I paint a whole lot of Warhammer minis and am a BIG OL NERDO.
-
-<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cooper-jackson&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="cooper-jackson" /></p>
 
